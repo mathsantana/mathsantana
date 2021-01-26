@@ -13,7 +13,7 @@
 - :keyboard: I’m currently developing a really nice web application (It's confidential, for now).
 - 🌱 I’m currently learning React, Node.js, SCSS and WebDev.
 - 💬 Feel free to ask me some question!
-- 📫 How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mathsantana13)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/mathsantana13)
 - ⚡ Fun fact: I like to travel by bus. :man_shrugging:
 
 </br>
